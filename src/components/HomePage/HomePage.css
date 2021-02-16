@@ -1,0 +1,67 @@
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+.header h3,h6 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
+.card-body{
+  font-size:15px;
+}
+
+/* .d1{
+  position: relative;
+  left:280px;
+  bottom:250px;
+} */
+
+/* .flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    /* border: 2px solid yellow; 
+}  
+
+.flex-child:first-child {
+    margin-right: 20px; *
+} 
+
+/* .fl{
+  display:flex;
+} */
+/* .column {
+  float: left;
+  width: 50%;
+  padding: 0 ;
+  margin :20px;
+}
+
+
+.row {margin: 0 -5px;}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+} */
+
+/* .card {
+ 
+  
+  
+}  */
